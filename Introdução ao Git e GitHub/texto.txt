@@ -6,7 +6,7 @@ ls                  -> Para listar os arquivos dentro da pasta
 
 
 
-git clone +link do repositorio         -> Para clonar o repositorio para o Local de Desenvolvimento
+git clone +link do repositorio               -> Para clonar o repositorio para o Local de Desenvolvimento
 
 git status                                   -> Para verificar o status // ver se nao tem nenhum arquivo desatualizado etc etc
 git add .                                    -> para adicionar os arquivos ao stage
