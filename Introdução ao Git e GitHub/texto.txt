@@ -1,0 +1,6 @@
+Link para download do Git: https://git-scm.com/download/win
+
+
+Blobs -> 
+Trees -> armazena blobs
+Commits ->
