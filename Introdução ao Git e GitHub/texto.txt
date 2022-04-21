@@ -1,8 +1,17 @@
 Link para download do Git: https://git-scm.com/download/win
 
-git add .            -> para adicionar os arquivos ao stage
+cd +nomeDaPasta     -> Para entrar na pasta que deseja trabalhar 
+ls                  -> Para listar os arquivos dentro da pasta
+
+
+
+
+git clone +link do repositorio         -> Para clonar o repositorio para o Local de Desenvolvimento
+
+git status                                   -> Para verificar o status // ver se nao tem nenhum arquivo desatualizado etc etc
+git add .                                    -> para adicionar os arquivos ao stage
 git commit -m "Mensagem sobre o Commit"      -> Fazer o comit para poder enviar os arquivos para a nuvem
-git push origin main         -> Para mandar os arquivos para a Nuvem
+git push origin main                         -> Para mandar os arquivos para a Nuvem
 
 
 
