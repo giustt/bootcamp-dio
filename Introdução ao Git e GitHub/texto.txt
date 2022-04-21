@@ -1,5 +1,11 @@
 Link para download do Git: https://git-scm.com/download/win
 
+git add .            -> para adicionar os arquivos ao stage
+git commit -m "Mensagem sobre o Commit"      -> Fazer o comit para poder enviar os arquivos para a nuvem
+git push origin main         -> Para mandar os arquivos para a Nuvem
+
+
+
 
 Blobs -> 
 Trees -> armazena blobs
