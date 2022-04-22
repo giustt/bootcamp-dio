@@ -1,0 +1,25 @@
+UDP: Tudo Bagunçado // Não sabe quem esta recebendo a mensagem Ex -> Carro do Ovo // Lives 
+TCP: Tudo organizado // Contrario ao UDP
+
+===================================================================================================================================================================================================
+
+Portas:
+20: ftp          -> envio de arquivos
+22: ssh          -> executar comandos
+25: smtp         -> envio de emails
+53: dns          -> traducao de ip para nome
+80: http         -> requisiçao simples internet
+443: Https 	 -> requisiçao segura
+
+
+Servidor SMTP do Gmail são: servidor SMTP: smtp.gmail.com; porta de saída: 465, caso esteja usando SSL ou 587 se for TLS.
+O Apache se comunica na rede por meio do protocolo TCP/IP ou HTTP/S; formatadas e transmitidas a partir de solicitações e comandos na porta 443.
+Por padrão, a porta de conexão com o MySQL é a TCP 3306. Você precisa abrir essa porta no firewall.
+
+
+===================================================================================================================================================================================================
+
+Modem: Transforma em sinal de internet e demodula para que os humanos entendam
+Roteador: Distribui a internet para um ou mais dispositivos				-> criado para ser inteligente
+
+
