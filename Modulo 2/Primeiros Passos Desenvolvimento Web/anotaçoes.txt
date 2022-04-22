@@ -22,4 +22,13 @@ Por padrão, a porta de conexão com o MySQL é a TCP 3306. Você precisa abrir 
 Modem: Transforma em sinal de internet e demodula para que os humanos entendam
 Roteador: Distribui a internet para um ou mais dispositivos				-> criado para ser inteligente
 
+===================================================================================================================================================================================================
+
+WEP: chaves de 64 e 128 bits
+WPA: chave trocada periodicamente 
+WPA2: (AES) (802.11i)	-> + segurança  + processamento  + lento
+
+Bluetooth: Usa conexao ponto-a-ponto
+
+
 
