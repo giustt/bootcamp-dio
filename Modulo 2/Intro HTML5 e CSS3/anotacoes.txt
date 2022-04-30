@@ -1,0 +1,33 @@
+section		-> representa uma seçao generica de conteudos como uma lista de artigos
+header		-> cabeçalho da pagina ou de parte da pagina como cabeçalho de um artigo 
+article		-> representa um conteudo relevante
+aside		-> representa um conteudo relacionado ao conteudo principal da pagina e representado por uma barra lateral
+footer		-> rodape da pagina ou de parte da pagina
+h1-h6		-> representa os titulos da pagina // so pode ter um h1 por pagina
+
+=============================================================================================================================
+
+h1		-> titulo da pagina
+h2		-> titulo da seçao
+h3		-> titulo do artigo
+p		-> Conteudo do artigo
+a		-> links // href="hiperlink" ; href="mailto:gustavodecassio00@gmail.com"; target="_blank" abre o link em nova aba
+
+=============================================================================================================================
+
+id		-> #id // so pode ser usado uma vez na pagina
+classe		-> .id
+
+=============================================================================================================================
+
+Box Model 
+
+Margin		-> espaçamento entre elementos
+border 		-> circudam o padding e o conteudo e da pra alterar a aparencia
+padding		-> espaçamento entre a borda e o conteudo
+content		-> o que o bloco representa
+
+=============================================================================================================================
+
+border-radius	-> arredonda os cantos
+border: 8px (solid // dotted // dashed) lightgray
