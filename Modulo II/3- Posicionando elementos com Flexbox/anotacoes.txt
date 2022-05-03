@@ -18,3 +18,20 @@ order			-> relacionado a ordem de distribuiçao e listagem dos itens
 align-self		-> define o alinhamento de um item especifico do container
 
 =============================================================================================================================
+
+Extensoes 		-> Html Snippets // Live HTML Previewer
+
+=============================================================================================================================
+
+Flex direction		-> Estabelece o eixo principal do container, definindo a direçao dos flex itens sao colocados no container
+
+row(padrao)		-> direcao do texto, esquerda para a direita
+row-reverso		-> sentido oposto a direçao do texto
+column			-> ordenaçao de cima para baixo
+column-reverse		-> ordenaçao inversa, de baixo para cima
+
+Flex-wrap		-> define se os itens devem ou nao quebrar a linha
+nowrap			-> padrao // nao permite quebra de linha
+wrap			-> permite a quebra de linha, quando um dos felx itens nao puder mais ser compactado
+wrap-reverse		-> permite a quebra de linha, quando um dos felx itens nao puder mais ser compactado, porem na direçao contraria (pra cima)
+
