@@ -23,7 +23,7 @@ Extensoes 		-> Html Snippets // Live HTML Previewer
 
 =============================================================================================================================
 
-Flex direction		-> Estabelece o eixo principal do container, definindo a direçao dos flex itens sao colocados no container
+Flex direction		---> Estabelece o eixo principal do container, definindo a direçao dos flex itens sao colocados no container
 
 row(padrao)		-> direcao do texto, esquerda para a direita
 row-reverso		-> sentido oposto a direçao do texto
@@ -35,3 +35,30 @@ nowrap			-> padrao // nao permite quebra de linha
 wrap			-> permite a quebra de linha, quando um dos felx itens nao puder mais ser compactado
 wrap-reverse		-> permite a quebra de linha, quando um dos felx itens nao puder mais ser compactado, porem na direçao contraria (pra cima)
 
+
+Flex-flow		-> é um atalho para as propriedades flex-direction e flex-wrap // porem o uso nao é tao comum ja que quando muda o fd para column mantemos o fw que é nowrap
+
+Justify content		---> Essa propriedade vai se encarregar de alinhar os itens dentro do container de acordo com a direção pretendida e tratar da distribuição de espaçamento entre eles. // nao aplica se ja tiver 100% do container
+
+flex-start		-> início do container.
+flex-end 		-> final do container.
+center			-> ao centro do container.
+space-between 		-> cria um espaçamento igual entre os elementos.
+space-around		-> os espaçamentos do meio são duas vezes maiores que o inicial e final.
+
+Align-items		---> Trata do alinhamento dos flex itens de acordo com o eixo do container // O alinhamento é diferente para quando os itens estão em colunas ou linhas. // Permite o alinhamento central no eixo vertical.
+
+center			-> alinhamento dos itens ao centro
+stretch			-> padrão, e os flex itens cresçam igualmente
+flex-start		-> alinhamento dos itens no início
+flex-end		-> alinhamento dos itens no final
+baseline		-> alinhamento de acordo com a linha base da tipografia dos itens
+
+Align-content		---> É a propriedade responsável por tratar o alinhamento das linhas do container em relação ao eixo vertical do container.
+
+center			-> alinhamento dos itens ao centro
+stretch			-> é o padrão e os flex itens crescem igualmente
+flex-start		-> alinhamento dos itens no início
+flex-end		-> alinhamento dos itens no final
+space-between		-> cria um espaçamento igual entre os elementos
+space-around		-> os espaçamentos do meio são duas vezes maiores que o inicial e final
