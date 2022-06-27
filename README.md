@@ -1,5 +1,5 @@
-# Desafio de Projeto sobre Git/GitHub da DIO
-Repositorio criado para o Desafio de Projeto
+# Repositorio para o Basecamp da DIO
+Repositorio criado para exibir o progresso adquirido ao decorrer do basecamp Full Stack da DIO
 
 
 ## Links uteis
