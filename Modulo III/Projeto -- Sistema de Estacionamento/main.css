@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Quicksand';
+}
+
+#table{
+    margin: auto;
+    margin-top: 30px;
+    box-shadow: 10px 5px 5px black;
+    border-radius: 8px;
+}
+
+#cadastrar{
+    background-color: blueviolet;
+    color: #fff;
+    margin-left: 1px;
+}
+
+#placement{
+    display: flex;
+    margin: 0 310px;
+}
+
+.delete{
+    background-color: rgb(231, 76, 76);
+    margin: 0 25px;
+    padding: 5px;
+}
+
+footer {
+	width: 100%;
+	background-color: #4e545c;
+	padding: 16px;
+	color: #e5e8e8;
+	position: fixed;
+	bottom: 0;
+	text-align: center;
+	font-weight: 400;
+}
