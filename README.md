@@ -13,5 +13,5 @@
 
 ## Livros
 ### 📖[Clean Code](https://github.com/felipe-augusto/clean-code-javascript)
-### 📖[Construindo API Testaveis com Node.Js](leanpub.com/construindo-apis-testaveis-com-nodejs)
+### 📖[Construindo API Testaveis com Node.Js](https://leanpub.com/construindo-apis-testaveis-com-nodejs)
 
