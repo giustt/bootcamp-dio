@@ -11,6 +11,7 @@
 ### 👨‍🏫[Slides API](https://drive.google.com/file/d/1hMTobff9BRIu-jeSoTzNWoqqrgCjkKWM/view)
 ### 👨‍💻[Status Codes](https://www.webfx.com/web-development/glossary/http-status-codes/)
 
-## Livro Sobre Qualidade de Codigo 
+## Livros
 ### 📖[Clean Code](https://github.com/felipe-augusto/clean-code-javascript)
+### 📖[Construindo API Testaveis com Node.Js](leanpub.com/construindo-apis-testaveis-com-nodejs)
 
